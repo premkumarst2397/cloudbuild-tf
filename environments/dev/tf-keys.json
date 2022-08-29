@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "devops-cicd-practice",
+  "private_key_id": "e4c9a41560c8a658c3f42817c83de1a163918b46",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCO7svuP9tADTLh\nS6j2vPUcn+R37ASCGXcRW0wEmu6vU2r7o2vagQ0u1RRiGkv6hZGXkhderk+PSzg0\n8apT09FOG+OGzJYOuVgteOYMIaSNRFazRWM+S7REPP5xqji31bZyDaSQrFTeo8db\nd+aD7YWXqjMVh2i+vP2gNPxcUqNhriYYGw02Zd/6ChFR9kGtyDOBiA3S/AUWPpVz\nOmnj19gcj2wsJ56v/v3Udf3J6z/XtrxA+zS/TBqQWQh0X1MfTUmK9J+sbabJRCbD\n4TPwHrWUTUKbhDHjbqLkR9tH8bzLiye4lTcs0f0bPRtG9gUNWwreNvusKVzsAEbi\ndqnZidCBAgMBAAECggEAA/OKjDTUNxZWUn+gtWd+YDL0YjNSYZVaIw7y0ErHL+4e\nrkOzitgX+PQ3ism+0XdpUbceccXgWa4C6QXIR2Z66g2f0d1shY4up50owOuaLLSX\nr/+KUZHOszc7coF57W0ZTNhfNQeqlfgRng/3vaxujcWNAXqblPBNE6V7V4MKVLws\n6bsOqdol/XYY0fO429zrVAUA9zf6j4we7GZuuEEvRiTynbhfX7G2516JBqphlJr8\nIRdPJtgLn+rTRDA31fN4YujzWcdKILFAK21saFTV0mt61j+qDDig0weAGuxeLv8H\nNQLnHkYZlDYUp46e4PgCEXg245gIzQ4iDi2uxw/kdQKBgQDDi2LW3x0CoRneYja9\nA2Ub87foSfTI4m6VN2EPgeG9j42RsLZQkebeHdLHZUT28J9uzv/UY0QXDEngeDSL\nw51tn5CzSXZs7GcNBZTLz9pWlJNNHyz7+nyWHY2Q/cYm0t+fC4aiDoRygzuR0oEs\nThKwkrRnsTiJ0aM+1V4+Nfr4BQKBgQC7H2Sc7/xWdhGuvlucUj9Q7isBJ4oKEpTV\n8mS6ebaV2+1dDgr0mDxIZV0JXFx90kZ/s7Hv0+6Dd9gF9xUfAsQfjGOjp8tUkisn\nJES6rgb0YzG1qBKjZe+JEAQ00qtydCLeQ0dLy0syBoPnrrQodod5IwXmoeW2TOw5\nJOf1+OELTQKBgQCRnicIpDXSU24UMUdaEkElQ6VcklZ7kkOPUyIwjiQxKcnfCJ17\n+mrWVZc1bbChxCa2OehBnXqDP190jY9z1URS8lSrbrWF/7Xt+I4KCMsrVpErCWBS\ndQJ6N5/IrXL2TmrA4bBs1irDq/6cZQpUl/9LBrTZ0xurZjYPAI2h/kjakQKBgBwM\nuKhN0SWkzUHEhzcHnTYkfY3Ov4KDBoyLqU3KsPQF467vS/UeXOr9RtUAY1z5CFhc\nN3Ab9MUAUgGS6Ded0ohoIweFP5WN06oqZaMWMzSvKeRxLVoRDbceD4NbkRe3EQMA\nUs+pybvV/i/coGTwX55pAZlw615IaaCnR543kISBAoGAckNt15l/O3kySy5GJoOj\nYHpeU4Voh7RqGmuwMcqn4pkIpRgRKrQ5Ji4t7um/U6dxwYUrmJkOF4SykcMSzNoK\ndE/n57neYSrIXIoO23gFCiSv6xYaLpIo3kL8LjZH+ilHzd6/kCV4zuC020gl9Lhl\nOdvzU/OrP4AnlOQQP+ctoEY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terrform@devops-cicd-practice.iam.gserviceaccount.com",
+  "client_id": "114213914278119711361",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terrform%40devops-cicd-practice.iam.gserviceaccount.com"
+}
