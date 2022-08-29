@@ -5,6 +5,13 @@
 *.tfstate
 *.tfstate.*
 
+# .terraform.lock.hcl files
+.terraform.lock.hcl
+
+#key files in json
+*.tf-keys.json
+*keys.json
+
 # Crash log files
 crash.log
 
