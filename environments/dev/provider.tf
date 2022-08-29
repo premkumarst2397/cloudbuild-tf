@@ -6,17 +6,17 @@ terraform {
     }
   } */
 
-  backend "gcs" {
+  /* backend "gcs" {
     bucket = "devops-cicd-practice-tfstate"
     prefix = "env/dev"
-  }
+  } */
 
 }
 
 provider "google" {
   # Configuration options
-  #project = "devops-cicd-practice"
+  project     = "devops-cicd-practice"
   zone        = "us-central1"
   region      = "us-central1-a"
-  #credentials = "tf-keys.json"
+  credentials = "tf-keys.json"
 }
